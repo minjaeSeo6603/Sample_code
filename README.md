@@ -4,4 +4,4 @@
   - Causal Analysis in Randomized Controlled Trial
 
 ## Juypter Notebook
-  - Writing Sample(Data cleaning, Analysis part)
+  - Data cleaning and econometrics analysis for Writing Sample
