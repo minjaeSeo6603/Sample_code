@@ -1,11 +1,11 @@
-# Sample_code
+# Sample Code
+Programming(Python, Stata, R) repositories econ/stat/social science research project
 
-## Stata
-  - Causal Analysis in Randomized Controlled Trial
+## Repo Contents
+- `Dissertation\`: Senior thesis work
+- `Python\`: Python work
+- `Stata\`: Stata Work
 
-## Juypter Notebook
-  - Data cleaning and econometrics analysis for Writing Sample
-
-## Dissertation
-  - UC Berkeley Topics in Economics Research(Senior year)
-  - Apply Instrumented difference in difference to estimate the causal effect of Mediciad Expansion under ACA on enrollment rates from 2008 to 2018 in United States.
+## Overview
+In each folder, I included the sample code and work samples by ysing each of the program, and currently working on refining my thesis under professor's guidiance for my dissertation 
+\textbf{The impact of Affordable Care Act on underserved populations' enrollment rates.}
