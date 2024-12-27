@@ -3,7 +3,9 @@
 
 ## Repo Contents
 `Dissertation`: Senior thesis work
+
 `Python`: Python work
+
 `Stata`: Stata work
 
 ## Overview
