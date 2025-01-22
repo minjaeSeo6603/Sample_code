@@ -4,7 +4,7 @@
 ## Repo Contents
 `Dissertation`: Senior thesis work
 
-`Python`: Python work
+`Python`: Python/Research work
 
 `Stata`: Stata work
 
@@ -22,4 +22,4 @@ This repository contains code samples and work from various research projects I'
 `R`: R code for the causal analysis of urban/regional economics using `GGPLOT`, `DPLYR`, `ivreg`, etc.
 
 Each folder includes the sample code and work produced using the respective programming languages. 
-The repository serves as a demonstration of my ability to manage and analyze large datasets and conduct statistical analyses in Python, Stata, and R.
+The repository demonstrates my ability to manage and analyze large datasets and conduct statistical analyses in Python, Stata, and R.
