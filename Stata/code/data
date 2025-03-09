@@ -1,0 +1,9 @@
+This code repository includes the data pre-processing, visualization, and analysis about the randomized controlled trial of the causal effect of participating of GT Sessions on depression in Ghana among two waves.
+
+Here's my main contributions
+  - Data cleaning and Merging
+  - Run the multivariate regression with including and identification of hetergenous treatment effect
+  - Robustness check for placebo, lead-lag and reduce the bias incurring from the causal analysis
+
+`code`: Stata code with 3 different parts
+`PDF`: Write up pdf files
